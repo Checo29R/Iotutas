@@ -1,6 +1,6 @@
-\# Proyecto de Investigación de Operaciones
+# Proyecto de Investigación de Operaciones
 
 
 
-\## por: Sergio Ivan Rico Garcia
+## por: Sergio Ivan Rico Garcia
 

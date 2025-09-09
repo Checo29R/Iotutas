@@ -4,7 +4,7 @@
 
 ## por: Sergio Ivan Rico Garcia
 
-Tecnologico Nacional de Mexico
-Ingenieria en Sistemas Computacionales 
-4° semestres
+Tecnologico Nacional de Mexico \n
+Ingenieria en Sistemas Computacionales \n
+4° semestres \n
 

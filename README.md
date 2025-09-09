@@ -1,15 +1,30 @@
-# Proyecto de Investigación de Operaciones
+\# Proyecto de Investigación de Operaciones
 
 
 
-## por: Sergio Ivan Rico Garcia
+\*\*por:\*\* Sergio Iván Rico García  
 
-Tecnologico Nacional de Mexico \\n
-Ingenieria en Sistemas Computacionales \\n
-4° semestres \\n
+\*\*Instituto:\*\* Tecnológico Nacional de México  
+
+\*\*Carrera:\*\* Ingeniería en Sistemas Computacionales  
+
+\*\*Semestre:\*\* 4°
 
 
 
-1. Programación Lineal
-2. Análisis de Redes
-3. Lineas de Espera
+---
+
+
+
+\## Temario
+
+
+
+1\. Programación Lineal  
+
+2\. Análisis de Redes  
+
+3\. Líneas de Espera
+
+
+

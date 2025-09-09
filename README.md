@@ -2,13 +2,13 @@
 
 
 
-\*\*por:\*\* Sergio Iván Rico García  
+**por:** Sergio Iván Rico García  
 
-\*\*Instituto:\*\* Tecnológico Nacional de México  
+**Instituto:** Tecnológico Nacional de México  
 
-\*\*Carrera:\*\* Ingeniería en Sistemas Computacionales  
+**Carrera:** Ingeniería en Sistemas Computacionales  
 
-\*\*Semestre:\*\* 4°
+**Semestre:** 4°
 
 
 

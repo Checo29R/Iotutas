@@ -1,4 +1,4 @@
-\# Proyecto de Investigación de Operaciones
+# Proyecto de Investigación de Operaciones
 
 
 
@@ -16,15 +16,15 @@
 
 
 
-\## Temario
+## Temario
 
 
 
-1\. Programación Lineal  
+1. Programación Lineal  
 
-2\. Análisis de Redes  
+2. Análisis de Redes  
 
-3\. Líneas de Espera
+3. Líneas de Espera
 
 
 
